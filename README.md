@@ -1,5 +1,5 @@
 # FJSP-Swarm-Intelligence
-本仓库提供《群体智能原理》教材相关算法示例代码，实现了群体智能算法在 **柔性作业车间调度问题（Flexible Job Shop Scheduling Problem, FJSP）** 中的应用。
+本仓库提供《群体智能——原理、改进与实现》教材相关算法示例代码，实现了群体智能算法在 **柔性作业车间调度问题（Flexible Job Shop Scheduling Problem, FJSP）** 中的应用。
 该项目主要用于 **教学演示、算法学习与实验验证**，帮助理解群体智能算法在复杂调度优化问题中的建模与求解过程。
 ---
 
